@@ -1,8 +1,10 @@
-Syeda Hubia Zaidi
-Computer Science student and Communication Designer & Developer.
-I use GitHub to learn, build, and collaborate on real-world projects, strengthen my software development skills, and create a strong professional portfolio.
+# Hi, I'm Syeda Hubia Zaidi 👋
 
-My primary focus areas include Python-based backend development, automation workflows using n8n, API development with FastAPI, and modern frontend development with React. I am actively working on academic and personal projects to deepen my understanding of full-stack development and system design.
+Computer Science student | Communication Designer | Developer
 
-Interests & Skills:
-Python · FastAPI · React · n8n · Web Development · Automation · UI/UX · API Design · Full-Stack Development
+- Backend: Python, FastAPI
+- Frontend: React
+- Automation: n8n
+- Interests: Web Development, APIs, UI/UX
+
+Currently building projects to strengthen my full-stack skills and portfolio.
